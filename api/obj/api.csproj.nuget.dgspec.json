@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sean\\Desktop\\projects\\React-CS-TS-Auth_Template\\api\\api.csproj": {}
+    "C:\\Users\\Sean\\Desktop\\projects\\birdie-do-list\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sean\\Desktop\\projects\\React-CS-TS-Auth_Template\\api\\api.csproj": {
+    "C:\\Users\\Sean\\Desktop\\projects\\birdie-do-list\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sean\\Desktop\\projects\\React-CS-TS-Auth_Template\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\Sean\\Desktop\\projects\\birdie-do-list\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\Sean\\Desktop\\projects\\React-CS-TS-Auth_Template\\api\\api.csproj",
+        "projectPath": "C:\\Users\\Sean\\Desktop\\projects\\birdie-do-list\\api\\api.csproj",
         "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sean\\Desktop\\projects\\React-CS-TS-Auth_Template\\api\\obj\\",
+        "outputPath": "C:\\Users\\Sean\\Desktop\\projects\\birdie-do-list\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sean\\AppData\\Roaming\\NuGet\\NuGet.Config",
