@@ -1,15 +1,16 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { useAuth } from "../../Context/useAuth";
+import birdie from "./Assets/Birdie.png";
 
 interface Props {}
 
 const Navbar = (props: Props) => {
   const {isLoggedIn, user, logout} = useAuth();
   return (
-    <nav className="relative container mx-auto p-10 shadow-sm">
+    <nav className="relative container mx-auto p-4 shadow-sm">
       <div className="flex items-center justify-between">
-        <Link to="/pageone">Page One</Link>
+        <Link to="/pageone"><img className= "w-1/4 h-1/4"src={birdie}></img></Link>
         <div className="flex items-center">
             <Link className="pr-6" to="/pagetwo">Page Two</Link>
             <Link to="/pagethree">Page Three</Link>
